@@ -18,6 +18,7 @@ page.pause()
 ###--------------------------------------------------### 시가총액 table에서 column name과 첫번째 데이터 추출 print  #page.locator("table",has_text="코스피") 도 가능
 
 
+
 ###--------------------------------------------------### tag_table,tag_header,tag_body로 정리 # all~은 리스트형식 반환
 
 
